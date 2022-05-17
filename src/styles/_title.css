@@ -1,0 +1,13 @@
+.title {
+  display: flex;
+  /* width: 100%; */
+  align-items: center;
+  column-gap: 0.5rem;
+  padding: 0rem 0rem;
+  -webkit-app-region: drag;
+}
+
+.title__icon {
+  height: 5.5em;
+  width: 10.5em;
+}
